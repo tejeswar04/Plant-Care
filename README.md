@@ -44,6 +44,12 @@ This project involves an embedded system built with **Arduino Uno** and various 
 
 ## 📌 Demo
 A demo of the project has been prototyped and simulated using **TinkerCAD**. You can visualize the system in action and interact with it in the simulation.
+![alt text](https://github.com/tejeswar04/Plant-Care/blob/main/demo.png)
+
+---
+
+## 📌 Wiring Diagram
+![alt text](https://github.com/tejeswar04/Plant-Care/blob/main/wire.png)
 
 ---
 
