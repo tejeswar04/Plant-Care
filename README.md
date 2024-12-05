@@ -54,12 +54,6 @@ A demo of the project has been prototyped and simulated using **TinkerCAD**. You
 ---
 
 ## 🛠️ Future Improvements
-- Integration of an automatic irrigation system to water plants based on predictions.
 - Enhancement of the model with more sensor inputs for better accuracy.
 - Development of a mobile app for real-time monitoring.
-
----
-
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
 
